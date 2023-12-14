@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/alphakrishna/alphakrishna/blob/main/Banner.jpg)
+![logo](https://github.com/alphakrishna/alphakrishna/blob/main/Banner.jpg)
 
    <h1 align="center">Hi 👋, I'm Krishna Singh</h1>
 <h3 align="center">Passionate IT Student | Enthusiastic Coder | Award-Winning Project Leader | AI and MERN Developer from India</h3>
