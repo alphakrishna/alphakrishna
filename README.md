@@ -1,4 +1,4 @@
-![logo](https://github.com/alphakrishna/alphakrishna/blob/main/Banner.jpg)
+![logo](https://github.com/alphakrishna/alphakrishna/blob/8ef8d1ff9197747a95af99b662b6026b7e87401e/Banner.jpg)
 
    <h1 align="center">Hi 👋, I'm Krishna Singh</h1>
 <h3 align="center">Passionate IT Student | Enthusiastic Coder | Award-Winning Project Leader | AI and MERN Developer from India</h3>
