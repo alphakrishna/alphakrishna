@@ -2,7 +2,7 @@
 
    <h1 align="center">Hi 👋, I'm Krishna Singh</h1>
 <h3 align="center">Passionate IT Student | Enthusiastic Coder | Award-Winning Project Leader | AI and MERN Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/alphakrishna/alphakrishna/blob/main/cea5cba8e1b097805c3a54ec6e59a21a.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/alphakrishna/alphakrishna/blob/main/Animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="alphakrishna" /> </p>
 
