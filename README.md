@@ -1,6 +1,6 @@
    <h1 align="center">Hi 👋, I'm Krishna Singh</h1>
 <h3 align="center">Passionate IT Student | Enthusiastic Coder | Award-Winning Project Leader | AI and MERN Developer from India</h3>
-<img align="right" alt="Coding" height="400" width="400" src="https://dribbble.com/shots/23251131-Git-Profile-GIF?added_first_shot=true&new_shot_upload=true&utm_source=Clipboard_Shot&utm_campaign=UPLOEDING_00-7&utm_content=Git%20Profile%20GIF&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=UPLOEDING_00-7&utm_content=Git%20Profile%20GIF&utm_medium=Social_Share">
+<img align="right" alt="Coding" height="400" width="400" src="Animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="alphakrishna" /> </p>
 
