@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **krishna191217@gmail.com**
 
-- 📄 Know about my experiences [Drive Link](https://drive.google.com/file/d/1VkhDqF75DBlUK7WeRWVi-vKfaw0pSois/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1VkhDqF75DBlUK7WeRWVi-vKfaw0pSois/view?usp=sharing)
 
 - ⚡ Fun fact **I once coded a game just to beat my own high score, and my ideal debugging partner is a cup of strong coffee. I believe in pushing code boundaries and turning coffee into algorithms!**
 
