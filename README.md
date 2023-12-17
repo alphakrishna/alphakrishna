@@ -1,9 +1,8 @@
-   <h1 align="center">Namaskaram 🙏, I'm Krishna Singh</h1>
+<h1 align="center">Namaskaram 🙏, I'm Krishna Singh</h1>
 <h3 align="center">Passionate IT Student | Enthusiastic Coder | Award-Winning Project Leader | AI and MERN Developer from India</h3>
+
 <img align="right" alt="Coding" height="400" width="400" src="Animated.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="alphakrishna" /> </p>
-
 <p align="left"> <a href="https://twitter.com/krishna79581345" target="blank"><img src="https://img.shields.io/twitter/follow/krishna79581345?logo=twitter&style=for-the-badge" alt="krishna79581345" /></a> </p>
 
 ### About Me
@@ -20,6 +19,7 @@
 <a href="https://linkedin.com/in/krishna99dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna99dev" height="30" width="40" /></a>
 </p>
 
+<!--Languages--> 
 <h3 align="left">Languages:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -29,6 +29,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
+<!--Tools and Technologys--> 
 <h3 align="left">Tools and Technologys:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
