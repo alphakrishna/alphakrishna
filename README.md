@@ -1,4 +1,4 @@
-   <h1 align="center">Hi 👋, I'm Krishna Singh</h1>
+   <h1 align="center">Namaskaram 🙏, I'm Krishna Singh</h1>
 <h3 align="center">Passionate IT Student | Enthusiastic Coder | Award-Winning Project Leader | AI and MERN Developer from India</h3>
 <img align="right" alt="Coding" height="400" width="400" src="Animated.gif">
 
@@ -11,9 +11,7 @@
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about anything, I'm happy to help
 - 📫 How to reach me **krishna191217@gmail.com**
-
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1VkhDqF75DBlUK7WeRWVi-vKfaw0pSois/view?usp=sharing)
-
 - ⚡ Fun fact **I once coded a game just to beat my own high score, and my ideal debugging partner is a cup of strong coffee. I believe in pushing code boundaries and turning coffee into algorithms!**
 
 <h3 align="left">Connect with me:</h3>
