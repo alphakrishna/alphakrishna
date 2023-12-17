@@ -6,10 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/krishna79581345" target="blank"><img src="https://img.shields.io/twitter/follow/krishna79581345?logo=twitter&style=for-the-badge" alt="krishna79581345" /></a> </p>
 
+### About Me
+- 🙋‍♂️ I Persuning my bachelors in Information Technology from Amity University, Noida
 - 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Web Devlopment**
-
+- 💬 Ask me about anything, I'm happy to help
 - 📫 How to reach me **krishna191217@gmail.com**
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1VkhDqF75DBlUK7WeRWVi-vKfaw0pSois/view?usp=sharing)
