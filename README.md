@@ -1,18 +1,18 @@
 <!--MY Code Start here 👇, Enjoy😉--> 
 <h1 align="center">Namaskaram 🙏, I'm Krishna Singh</h1>
-<h3 align="center">Passionate IT Student | Enthusiastic Coder | Award-Winning Project Leader | AI and MERN Developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | Award-Winning Project Lead | AI & MERN Stack Developer | Tech from India</h3>
 
 <img align="right" alt="Coding" height="400" width="400" src="Animated.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="alphakrishna" /> </p>
 <p align="left"> <a href="https://twitter.com/krishna79581345" target="blank"><img src="https://img.shields.io/twitter/follow/krishna79581345?logo=twitter&style=for-the-badge" alt="krishna79581345" /></a> </p>
 
 ### About Me
-- 🙋‍♂️ I Persuning my bachelors in Information Technology from Amity University, Noida
-- 🌱 I’m currently learning **React**
-- 💬 Ask me about anything, I'm happy to help
+- 🙋‍♂️ I completed my **B. Tech in Information Technology from Amity University, Noida**
+- 🌱 Currently building **Full-Stack** projects using **React**, **Flask**, and **AWS**
+- 💬  Ask me anything about **Full-Stack Development**, **DSA**, or **ML workflows**
 - 📫 How to reach me **krishna191217@gmail.com**
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1VkhDqF75DBlUK7WeRWVi-vKfaw0pSois/view?usp=sharing)
-- ⚡ Fun fact **I once coded a game just to beat my own high score, and my ideal debugging partner is a cup of strong coffee. I believe in pushing code boundaries and turning coffee into algorithms!**
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1VkhDqF75DBlUK7WeRWVi-vKfaw0pSois/view)
+- ⚡Outside coding, **I enjoy badminton, anime, and diving into a good book with coffee**
 
 ### Connect with me:
 <!--Connect--> 
