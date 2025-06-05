@@ -71,8 +71,9 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alphakrishna&theme=radical&title=Commits,Repositories,Languages,Experience&column=4&margin-w=10&margin-h=10"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=alphakrishna&show_icons=true&theme=radical" height="150"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphakrishna&layout=compact&theme=radical" height="150"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=alphakrishna&show_icons=true&theme=radical" height="150"/> -->
+  
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphakrishna&show_icons=true&locale=en&layout=compact" alt="alphakrishna" /></p> 
