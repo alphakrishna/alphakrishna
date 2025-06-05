@@ -1,6 +1,6 @@
 <!--MY Code Start here 👇, Enjoy😉--> 
 <h1 align="center">Namaskaram 🙏, I'm Krishna Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | Award-Winning Project Lead | AI & MERN Stack Developer | Tech from India</h3>
+<h3 align="center">🚀 Full Stack Developer | Award-Winning Project Lead | AI & MERN Stack Developer | Tech from India></h3>
 
 <img align="right" alt="Coding" height="400" width="400" src="Animated.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="alphakrishna" /> </p>
